@@ -1,4 +1,7 @@
+package model;
 import java.util.List;
+
+import domain.Conta;
 
 public class Banco {
 

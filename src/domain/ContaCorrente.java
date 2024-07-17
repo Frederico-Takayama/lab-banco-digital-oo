@@ -1,3 +1,5 @@
+package domain;
+import model.Cliente;
 
 public class ContaCorrente extends Conta {
 
